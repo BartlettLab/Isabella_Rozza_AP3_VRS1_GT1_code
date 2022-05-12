@@ -3,4 +3,4 @@ This is the code that I used in R to analyze my data that I collected from my GT
 I uploaded my data for each factor I was testing: stamen length, stamen number, petal width, and petal length.
 I viewed the summary of the data and the p values comparing the factors across genotypes. 
 I created box plots to view this data.
-I repeated this all and included flower position with genotype.
+Then, I repeated this all and included flower position with genotype.
